@@ -1,0 +1,33 @@
+# Data files (too large for GitHub)
+*.edf
+*.EDF
+data/Siena/
+data/raw/
+*.fif
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+epienv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large outputs (keep only summary figures)
+dSPM_Results/
+GATv2_Results_v3/
+GATv2_Results_v4/
+
+# Excel temp files
+~$*.xlsx

@@ -1,0 +1,21 @@
+============================================================
+SIENA FEATURES - MATCHED TO LAB
+============================================================
+
+Date: 2026-05-21 15:36:29.264170
+
+MATCHED PARAMETERS:
+  Channels: 16 (Fp1, Fp2, F7, F3, Fz, F4, F8, T3, C3, Cz, C4, T4, T5, P3, Pz, P4)
+  Sampling: 1000 Hz
+  ICA: 15 components, infomax
+  Bands:
+    - Theta: 4-8 Hz
+    - Alpha: 8-13 Hz
+    - Beta: 13-30 Hz
+  Features:
+    - Sample Entropy (m=2, r=0.2*std)
+    - Spectral Entropy
+    - Variance
+    - Skewness
+
+Files: 48
